@@ -1,31 +1,32 @@
 Check list for laboratory reports.
 
 Formato y forma:
-- [ ] Ortografía 
-- [ ] Estilo
-- [ ] Estructura
-- [ ] Originalidad
-- [ ] Imágenes, Tablas y Referencias
-- [ ] Estilo de referencias
+- [x] Ortografía 
+- [x] Estilo
+- [x] Estructura
+- [x] Originalidad
+- [-] Imágenes, Tablas y Referencias: Secciones de código mal referenciadas
+- [-] Estilo de referencias:  Estilo incorrecto para referecnias
 
 Contenido:
-- [ ] Introducción
-- [ ] Metodología
-- [ ] Desarrollo
-- [ ] Simulación
-- [ ] Resultados 
-- [ ] Conclusiones
+- [x] Introducción
+- [x] Metodología
+- [-] Desarrollo: Está implicitamente pero no se indica
+- [-] Simulación: Está implicitamente pero no se indica
+- [x] Resultados 
+- [x] Conclusiones
 
 Comparación de los resultados:
-- [ ] Scilab y Ecuaciones 
-- [ ] Respuesta al escalón
-- [ ] Modos de operación del sistema Wo=Wi, Wo><Wi
-- [ ] Conclusiones
+- [x] Scilab y Ecuaciones 
+- [x] Respuesta al escalón
+- [x] Modos de operación del sistema Wo=Wi, Wo><Wi: Diferentes resultados qué paso??
+- [x] Conclusiones
 
 Repositorio:
-- [ ] Carpetas
-- [ ] Código Scilab
-- [ ] Código de Latex
-- [ ] Entregado en tiempo
+- [-] Carpetas
+- [x] Código Scilab
+- [-] Código de Latex
+- [x] Entregado en tiempo
 
 
+Grade=82
